@@ -1,6 +1,6 @@
 FROM ubuntu:14.04
 
-MAINTAINER Thomas Charlat
+MAINTAINER Thomas Charlat "thomas.charlat@gmail.com"
 
 ENV DEBIAN_FRONTEND noninteractive
 
