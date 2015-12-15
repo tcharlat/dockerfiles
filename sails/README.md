@@ -18,3 +18,5 @@ alias lift="docker run --rm -it -v $PWD:/src -p 1337:1337 kallikrein/sails sails
 cd myApp
 lift
 ```
+@TODO :
+Create a production-focused docker image to run a sails app
