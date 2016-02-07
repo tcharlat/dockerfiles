@@ -5,4 +5,5 @@ MAINTAINER Thomas Charlat "thomas.charlat@gmail.com"
 RUN npm i -g \
   sails-generate-policy \
   sails-generate-response \
-  sails-generate-generator
+  sails-generate-generator \
+  sails-generate-adapter
