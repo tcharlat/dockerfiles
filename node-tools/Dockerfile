@@ -1,4 +1,4 @@
-FROM kallikrein/sails-tools:0.11.3
+FROM kallikrein/sails-tools:0.12.0
 
 MAINTAINER Thomas Charlat "thomas.charlat@gmail.com"
 
