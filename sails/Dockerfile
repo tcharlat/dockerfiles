@@ -1,5 +1,5 @@
-FROM kallikrein/node:4.2.3
+FROM kallikrein/node:5.5.0
 
 MAINTAINER Thomas Charlat "thomas.charlat@gmail.com"
 
-RUN npm --unsafe-perm i -g sails@0.11.3
+RUN npm i -g sails@0.12.0
