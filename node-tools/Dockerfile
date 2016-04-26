@@ -6,4 +6,5 @@ RUN npm i -g \
   nodemon \
   bower \
   browserify \
-  watchify
+  watchify \
+  webpack
