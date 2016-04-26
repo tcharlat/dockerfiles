@@ -4,7 +4,7 @@ This image adds a toolbox-like set of popular node global features:
 
 [nodemon](https://www.npmjs.com/package/nodemon)  
 [bower](http://bower.io/)  
-[watchify](https://github.com/substack/watchify) 
+[watchify](https://github.com/substack/watchify)  
 [webpack](http://webpack.github.io)  
 
 Common use :
