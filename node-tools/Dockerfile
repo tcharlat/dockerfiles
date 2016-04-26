@@ -7,4 +7,5 @@ RUN npm i -g \
   bower \
   browserify \
   watchify \
-  webpack
+  webpack \
+  webpack-dev-server
