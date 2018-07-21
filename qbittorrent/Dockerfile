@@ -6,3 +6,4 @@ RUN apt-get install -y qbittorrent-nox
 VOLUME /root/.config/qBittorrent
 VOLUME /root/.local/share/data/qBittorrent
 VOLUME /root/Downloads
+VOLUME /root/torrents
